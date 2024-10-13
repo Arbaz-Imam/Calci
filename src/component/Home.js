@@ -69,7 +69,7 @@ document.getElementById('display').value = updateValue;
     return (
 
     <div>
-        <h1 className='h1'> Calculate me!</h1>
+        <h1 className='h1 '> Calculate me!</h1>
       <div className="container  flex flex-column  item-center mx-auto">
         <div className="row">
           <h4>Calculator...000</h4>
